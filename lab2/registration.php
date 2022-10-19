@@ -48,13 +48,3 @@ if(isset($_POST["btnSignUpSub"]))
 </html>
 
 
-
-
-
-
-
-<!--
-<form action="#" method="post">
-<button name="hello" style="padding-top:10px ; padding-bottom: 10px; padding-left: 20px; padding-right: 20px; border-style: dotted; border-color: red; background-color: black; color: white;"> Hello </button>
-</form>
---!>
